@@ -1,0 +1,22 @@
+C:\Users\dilay\Desktop\c# çalışmalar\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\bin\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.exe
+C:\Users\dilay\Desktop\c# çalışmalar\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\bin\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.deps.json
+C:\Users\dilay\Desktop\c# çalışmalar\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\bin\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.runtimeconfig.json
+C:\Users\dilay\Desktop\c# çalışmalar\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\bin\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.runtimeconfig.dev.json
+C:\Users\dilay\Desktop\c# çalışmalar\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\bin\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.dll
+C:\Users\dilay\Desktop\c# çalışmalar\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\bin\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.pdb
+C:\Users\dilay\Desktop\c# çalışmalar\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\obj\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.csprojAssemblyReference.cache
+C:\Users\dilay\Desktop\c# çalışmalar\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\obj\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.AssemblyInfoInputs.cache
+C:\Users\dilay\Desktop\c# çalışmalar\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\obj\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.AssemblyInfo.cs
+C:\Users\dilay\Desktop\c# çalışmalar\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\obj\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.dll
+C:\Users\dilay\Desktop\c# çalışmalar\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\obj\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.pdb
+C:\Users\dilay\Desktop\c# çalışmalar\yzm mimari tasarım\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\bin\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.exe
+C:\Users\dilay\Desktop\c# çalışmalar\yzm mimari tasarım\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\bin\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.deps.json
+C:\Users\dilay\Desktop\c# çalışmalar\yzm mimari tasarım\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\bin\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.runtimeconfig.json
+C:\Users\dilay\Desktop\c# çalışmalar\yzm mimari tasarım\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\bin\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.runtimeconfig.dev.json
+C:\Users\dilay\Desktop\c# çalışmalar\yzm mimari tasarım\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\bin\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.dll
+C:\Users\dilay\Desktop\c# çalışmalar\yzm mimari tasarım\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\bin\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.pdb
+C:\Users\dilay\Desktop\c# çalışmalar\yzm mimari tasarım\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\obj\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.csprojAssemblyReference.cache
+C:\Users\dilay\Desktop\c# çalışmalar\yzm mimari tasarım\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\obj\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.AssemblyInfoInputs.cache
+C:\Users\dilay\Desktop\c# çalışmalar\yzm mimari tasarım\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\obj\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.AssemblyInfo.cs
+C:\Users\dilay\Desktop\c# çalışmalar\yzm mimari tasarım\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\obj\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.dll
+C:\Users\dilay\Desktop\c# çalışmalar\yzm mimari tasarım\ProtoType Tasarım Deseni\ProtoType Tasarım Deseni\obj\Debug\netcoreapp3.0\ProtoType Tasarım Deseni.pdb

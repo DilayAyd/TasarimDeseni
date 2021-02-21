@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ProtoType Tasarım Deseni/1.0.0": {
+        "runtime": {
+          "ProtoType Tasarım Deseni.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProtoType Tasarım Deseni/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
